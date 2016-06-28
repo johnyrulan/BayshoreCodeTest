@@ -8,7 +8,7 @@
                 totalElements = input + 1;
 
             while (matrixSize * matrixSize < totalElements)
-                matrixSize++;
+                   matrixSize++;
 
             var matrix = new int[matrixSize, matrixSize];
 
